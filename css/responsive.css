@@ -1,0 +1,514 @@
+@media(max-width:767px) {
+
+   .nav-sec {
+      display: none;
+   }
+
+   .showmenu {
+      display: block;
+   }
+
+   .topheader {
+      display: none;
+   }
+
+
+   .mbicon {
+      display: block;
+
+   }
+
+   .header-section {
+      display: block;
+
+
+   }
+
+   .header-section {
+
+      top: -36px;
+      padding-bottom: 42px;
+
+   }
+
+   .section-title-left h1 {
+      font-size: 21px;
+
+   }
+
+   .section-title-left h4 {
+      font-size: 14px;
+   }
+
+   .section-title-left p {
+      font-size: 14px;
+   }
+
+   .section-title-right h1 {
+      font-size: 24px;
+   }
+
+   .section-title-right h4 {
+      font-size: 14px;
+   }
+
+   .section-title-right p {
+      font-size: 14px;
+   }
+
+   .fa-map-marker {
+      padding-left: 5px !important;
+   }
+
+   .header-section .nav-sec .nav-list {
+      display: block;
+      position: absolute;
+      top: -36px;
+      left: 0;
+      width: 50%;
+      height: 120vh;
+      background-color: #000d20;
+   }
+
+   .header-section .nav-sec .nav-list li a {
+      padding: 18px 17px;
+
+   }
+
+
+
+   .quote {
+      display: none;
+   }
+
+   .icons-fonts h4 {
+      font-size: 16px;
+      padding-bottom: 10px;
+   }
+
+   .icons-fonts {
+      padding-left: 50px;
+      padding-bottom: 45px;
+
+   }
+
+   .icons-fonts p {
+      font-size: 15px;
+      padding-bottom: 16px;
+
+   }
+
+   .hero-font {
+      font-size: 43px;
+      font-weight: 1000;
+      color: white;
+      margin-top: 27%;
+      margin-left: 31px;
+   }
+
+
+
+   .text-right-icons {
+      display: revert;
+   }
+
+   .Service-text h1 {
+      font-size: 39px;
+   }
+
+   .service-text h2 {
+      font-size: 26px;
+   }
+
+
+   .text-right1 {
+      position: relative;
+      margin-top: 70px;
+      margin-left: 18px;
+   }
+
+   .text-right2 {
+      font-size: 18px;
+
+      margin-top: 140px;
+      margin-left: 28px;
+   }
+
+   .text-right1 input {
+      width: 100%;
+   }
+
+   .text-right1 button {
+      width: 35%;
+      right: 0px;
+      font-size: 13px;
+   }
+
+   .herowrap {
+      width: 100%;
+      height: 75vh;
+   }
+
+   .team-name h4 {
+      padding-left: 2px;
+   }
+
+   .each-work-right h3 {
+      font-size: 32px;
+   }
+
+   .content {
+      width: 100%;
+   }
+
+   .content h2 {
+      text-align: left;
+      padding-right: 55px;
+      font-size: 14px;
+   }
+
+
+   .requestquote-client {
+      padding-left: 4px;
+      padding-right: 3px;
+   }
+
+   .content-blog .blog-cont h4 {
+      font-size: 16px !important;
+      margin-bottom: 2px;
+      font-size: 16px;
+      padding-left: 10px;
+   }
+
+   .hero-font h1 {
+      font-size: 44px;
+      margin-bottom: 50px;
+      line-height: 1.4;
+   }
+
+   .fa-truck {
+      padding-left: 105px;
+   }
+
+   .fa-ship {
+      padding-left: 105px;
+   }
+
+   .fa-plane {
+      padding-left: 105px;
+   }
+
+   .footer-section {
+      margin-top: 60px;
+   }
+
+   .each-work h2 {
+      font-size: 28px;
+      text-align: center;
+   }
+
+   .each-work-right h3 {
+      margin-left: 10px;
+   }
+
+   .bottom-each {
+      margin-bottom: -15px;
+   }
+
+   .bottom-each h4 {
+      margin-bottom: 10px;
+   }
+
+   .iconsheader-footer {
+      font-size: 24px;
+      margin-left: 29px;
+      margin-top: 20px;
+      margin-bottom: 4px;
+   }
+
+   .requestquote {
+     
+         padding: 12px;
+         padding-right: 40px;
+         padding-left: 38px;
+     }
+   
+
+   .company-image {
+      margin-top: 70px;
+      margin-bottom: 50px;
+   }
+
+   .about-text h4 {
+      text-align: center;
+      margin-left: -11px;
+   }
+
+   .about-text h1 {
+      font-size: 22px;
+      line-height: 2.6rem;
+      text-align: center;
+   }
+
+   .about-text p {
+      font-size: 17px;
+   }
+
+   .fa-commenting {
+      padding-right: -1px;
+   }
+
+   .moreaboutus {
+      margin-left: 35px;
+   }
+
+   .nameiconblog {
+      padding-left: 1px;
+      font-size: 12px;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+
+
+
+   .header-section .nav-sec .nav-list li a {
+      display: inline-block;
+      text-decoration: none;
+      padding: 10px 14px;
+      color: #c0d9f7;
+      font-size: 16px;
+      font-weight: 400;
+      transition: 0.5s ease;
+   }
+
+   .content {
+      width: 100%;
+   }
+
+
+   .herowrap {
+      background-image: url(../assets/h1_hero.jpg);
+      width: 100%;
+      height: 60vh;
+      margin-top: 135px;
+      background-repeat: no-repeat;
+   }
+
+   .header-section {
+
+      top: -40px;
+      padding-bottom: 66px;
+      padding-left: 1px;
+   }
+
+   .nav-sec {
+      margin-top: 15px;
+   }
+
+   .topheader {
+      display: none;
+   }
+
+   .icons-fonts {
+      padding-left: 30px;
+      padding-bottom: 87px;
+   }
+
+   .contact {
+      text-align: center;
+   }
+
+   .fa-map-marker {
+      margin-left: 10 px;
+   }
+
+   .quote {
+      display: none;
+   }
+
+   .requestquote-client {
+      text-decoration: none;
+      color: white;
+      border: 1px solid rgb(255, 95, 19);
+      border-radius: 6px;
+      background-color: rgb(255, 95, 19);
+      margin-top: 20px;
+      margin-left: 0;
+      padding: 11px;
+      padding-left: 0px;
+      padding-right: 0;
+  }
+
+   .requestquote {
+      padding-right: 109px;
+      padding-left: 108px;
+   }
+
+   
+
+   .blog-font1 {
+      margin-top: 50px;
+      text-align: center;
+
+   }
+
+   .nameiconblog {
+      color: #a9b2c3;
+      padding-left: 0px;
+      margin: 0;
+      font-weight: 100;
+      font-size: 14px;
+   }
+
+   .each-work-right {
+      text-align: center;
+   }
+
+   .content-blog h4 {
+      font-size: 16px;
+      padding-left: 62px;
+   }
+
+   .icons-fonts p {
+      font-size: 19px;
+      margin-bottom: -30px;
+      margin-right: 22px;
+   }
+
+   .fa-phone {
+      margin-left: -45px;
+   }
+
+   .fa-clock-o {
+      margin-left: -45px;
+   }
+
+   .fa-map-marker {
+      margin-left: -9px;
+   }
+
+
+   .quote {
+      padding-left: 1px;
+      padding-right: 1px;
+   }
+
+   .bottom-each {
+      padding-bottom: px;
+   }
+
+   .content h2 {
+
+      font-size: 14px;
+   }
+
+   .section-title p {
+      color: #678096;
+      font-size: 14px;
+      text-align: center;
+      line-height: 1.7rem;
+      padding: 10px 14px;
+   }
+
+   
+   .each-work-right h3 {
+      margin-left: 10px;
+   }
+
+   .text-right2 {
+      font-size: 16px;
+      margin-top: 150px;
+      margin-left: 110px;
+   }
+
+   .text-right1 {
+      margin-top: 50px;
+      margin-left: 110px;
+   }
+
+   .section-title h4 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #f15f22;
+      margin-top: 1px;
+      margin-bottom: 35px;
+      text-align: center;
+   }
+
+   .section-title-left h4 {
+      font-size: 17px;
+      font-weight: 600;
+      color: #f15f22;
+      margin-top: 165px;
+      margin-bottom: 20px;
+      text-align: left;
+   }
+
+   .service {
+      margin-bottom: 1px;
+   }
+
+   .content {
+      padding-left: 22px;
+      position: absolute;
+      bottom: 0;
+
+      background: rgb(255 255 255 / 43%);
+
+      padding-top: 7px;
+      color: #fff;
+      bottom: 0;
+
+   }
+
+   .content h4 {
+      padding-right: 31px;
+   }
+
+   .blog-box {
+     
+      width: 28%;
+     
+
+   }
+
+   .fa-commenting,
+   .fa-user {
+      color: #a9b2c3;
+      padding-right: 0px;
+      margin-top: -6px;
+   }
+
+   .content-blog h4 {
+      font-size: 14px;
+      padding-left: 4px;
+      padding-top: 12px;
+   }
+
+   .content-blog{
+      margin-bottom: 2px;
+      font-size: 14px;
+    
+   }
+   .blog-dt{
+      font-size: 15px;
+   }
+   .blog-cont h4{
+      font-size: 16px !important;
+   }
+}
